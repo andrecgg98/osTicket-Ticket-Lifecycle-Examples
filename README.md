@@ -134,4 +134,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - [osTicket Forums](https://forum.osticket.com/)
 
 ---
-You have now completed a literal, step-by-step osTicket ticket lifecycle from intake through resolution!
+You have now completed a osTicket ticket lifecycle from intake through resolution!
